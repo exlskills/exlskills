@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/476724892788719616.svg)
+![Discord](https://img.shields.io/discord/476724823058415644.svg)
 
 
 # EXLskills Central Issues/Project Management Repo
